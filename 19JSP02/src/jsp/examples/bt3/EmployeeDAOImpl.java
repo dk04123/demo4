@@ -19,7 +19,7 @@ public class EmployeeDAOImpl implements EmployeeDAO {
 		employees = new Employee[employeeNo];
 		for (int i = 0; i < employeeNo; i++) {
 			System.out.println("Please input the information of employee[" + (i + 1) + "] : ");
-			System.out.println("Name : ");
+			System.out.println("Name11 : ");
 			String name = scanner.next();
 			System.out.println("Please input the information of employee[" + i + 1 + "] : ");
 			System.out.println("Name : ");
