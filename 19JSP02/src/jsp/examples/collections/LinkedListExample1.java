@@ -23,7 +23,7 @@ public class LinkedListExample1 {
         Iterator<String> itr = linkedList.iterator();
         while (itr.hasNext(123)) {
             System.out.print(itr.next() + ", ");
-        }
+        }123
         // add first
         linkedList.addFirst("Python");
         // Show list through for-each
