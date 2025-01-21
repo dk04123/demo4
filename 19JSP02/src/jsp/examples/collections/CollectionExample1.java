@@ -25,7 +25,7 @@ public class CollectionExample1 {
         System.out.println("Các phần tử của ArrayList");
         System.out.print("\tgg" + arrayList + "\n");
  
-        List<String> linkedList = new LinkedList<String>();
+        List<String> linkedLisdfst = new LinkedList<String>();
         linkedList.add("PHP");
         linkedList.add("Python");
         linkedList.add("Java");
